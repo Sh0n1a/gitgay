@@ -1,0 +1,151 @@
+2025-04-17 14:19:20,576 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 14:19:20,584 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 14:19:20,586 - ERROR - ValueError: Input must be an integer
+2025-04-17 15:07:37,734 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 15:07:37,743 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 15:07:37,744 - ERROR - ValueError: Input must be an integer
+2025-04-17 15:09:28,315 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 15:09:28,324 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 15:09:28,326 - ERROR - ValueError: Input must be an integer
+2025-04-17 15:09:42,940 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 15:09:42,951 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 15:09:42,953 - ERROR - ValueError: Input must be an integer
+2025-04-17 16:40:42,171 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 16:40:42,185 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 16:40:42,186 - ERROR - ValueError: Input must be an integer
+2025-04-17 18:21:20,438 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:21:20,449 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:21:20,450 - ERROR - ValueError: Input must be an integer
+2025-04-17 18:23:32,521 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:23:32,536 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:23:32,536 - ERROR - ValueError: Input must be an integer
+2025-04-17 18:23:43,466 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-17 18:23:43,466 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 18:23:43,468 - INFO -  * Restarting with stat
+2025-04-17 18:23:43,690 - WARNING -  * Debugger is active!
+2025-04-17 18:23:43,690 - INFO -  * Debugger PIN: 127-949-437
+2025-04-17 18:23:52,431 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:23:52,456 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:23:52,457 - ERROR - ValueError: Input must be an integer
+2025-04-17 18:24:17,640 - INFO - 127.0.0.1 - - [17/Apr/2025 18:24:17] "GET / HTTP/1.1" 200 -
+2025-04-17 18:24:17,686 - INFO - 127.0.0.1 - - [17/Apr/2025 18:24:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-17 18:24:21,411 - INFO - 127.0.0.1 - - [17/Apr/2025 18:24:21] "POST / HTTP/1.1" 200 -
+2025-04-17 18:24:23,661 - INFO - 127.0.0.1 - - [17/Apr/2025 18:24:23] "POST / HTTP/1.1" 200 -
+2025-04-17 18:24:25,311 - INFO - 127.0.0.1 - - [17/Apr/2025 18:24:25] "POST / HTTP/1.1" 200 -
+2025-04-17 18:24:35,502 - INFO - 127.0.0.1 - - [17/Apr/2025 18:24:35] "POST / HTTP/1.1" 200 -
+2025-04-17 18:24:36,571 - INFO - 127.0.0.1 - - [17/Apr/2025 18:24:36] "POST / HTTP/1.1" 200 -
+2025-04-17 18:24:44,693 - INFO - 127.0.0.1 - - [17/Apr/2025 18:24:44] "POST / HTTP/1.1" 200 -
+2025-04-17 18:26:59,039 - INFO -  * Detected change in 'C:\\Users\\ШишкинН\\Desktop\\museum\\test.py', reloading
+2025-04-17 18:26:59,124 - INFO -  * Restarting with stat
+2025-04-17 18:26:59,446 - WARNING -  * Debugger is active!
+2025-04-17 18:26:59,446 - INFO -  * Debugger PIN: 127-949-437
+2025-04-17 18:26:59,486 - ERROR - Ошибка при добавлении лота: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2025-04-17 18:26:59,486 - INFO - 127.0.0.1 - - [17/Apr/2025 18:26:59] "POST / HTTP/1.1" 200 -
+2025-04-17 18:26:59,618 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:26:59,653 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:26:59,655 - ERROR - ValueError: Input must be an integer
+2025-04-17 18:27:55,241 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-17 18:27:55,241 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 18:27:55,241 - INFO -  * Restarting with stat
+2025-04-17 18:27:55,507 - WARNING -  * Debugger is active!
+2025-04-17 18:27:55,507 - INFO -  * Debugger PIN: 127-949-437
+2025-04-17 18:28:02,408 - INFO - 127.0.0.1 - - [17/Apr/2025 18:28:02] "GET / HTTP/1.1" 200 -
+2025-04-17 18:28:52,062 - INFO - 127.0.0.1 - - [17/Apr/2025 18:28:52] "POST / HTTP/1.1" 200 -
+2025-04-17 18:28:56,492 - INFO - 127.0.0.1 - - [17/Apr/2025 18:28:56] "[32mPOST /bid HTTP/1.1[0m" 302 -
+2025-04-17 18:28:56,503 - INFO - 127.0.0.1 - - [17/Apr/2025 18:28:56] "GET / HTTP/1.1" 200 -
+2025-04-17 18:29:01,575 - INFO - 127.0.0.1 - - [17/Apr/2025 18:29:01] "[32mPOST /bid HTTP/1.1[0m" 302 -
+2025-04-17 18:29:01,582 - INFO - 127.0.0.1 - - [17/Apr/2025 18:29:01] "GET / HTTP/1.1" 200 -
+2025-04-17 18:29:06,630 - INFO - 127.0.0.1 - - [17/Apr/2025 18:29:06] "[32mPOST /bid HTTP/1.1[0m" 302 -
+2025-04-17 18:29:06,637 - INFO - 127.0.0.1 - - [17/Apr/2025 18:29:06] "GET / HTTP/1.1" 200 -
+2025-04-17 18:29:31,491 - INFO - 127.0.0.1 - - [17/Apr/2025 18:29:31] "GET / HTTP/1.1" 200 -
+2025-04-17 18:29:31,882 - INFO - 127.0.0.1 - - [17/Apr/2025 18:29:31] "GET / HTTP/1.1" 200 -
+2025-04-17 18:35:20,944 - INFO - 127.0.0.1 - - [17/Apr/2025 18:35:20] "POST / HTTP/1.1" 200 -
+2025-04-17 18:36:01,593 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:36:01,618 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:36:01,619 - ERROR - ValueError: Input must be an integer
+2025-04-17 18:37:43,447 - INFO - 127.0.0.1 - - [17/Apr/2025 18:37:43] "POST / HTTP/1.1" 200 -
+2025-04-17 18:38:10,452 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:38:10,467 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:38:10,467 - ERROR - ValueError: Input must be an integer
+2025-04-17 18:38:41,785 - INFO - 127.0.0.1 - - [17/Apr/2025 18:38:41] "[32mPOST /bid HTTP/1.1[0m" 302 -
+2025-04-17 18:38:41,793 - INFO - 127.0.0.1 - - [17/Apr/2025 18:38:41] "GET / HTTP/1.1" 200 -
+2025-04-17 18:38:46,770 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:38:46,770 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:38:46,786 - ERROR - ValueError: Input must be an integer
+2025-04-17 18:39:18,289 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:39:18,305 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-17 18:39:18,305 - ERROR - ValueError: Input must be an integer
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+2025-04-18 16:25:37,275 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-18 16:25:37,299 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-18 16:25:37,300 - ERROR - ValueError: Input must be an integer
+2025-04-18 16:25:43,386 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-18 16:25:43,416 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-18 16:25:43,418 - ERROR - ValueError: Input must be an integer
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+2025-04-18 16:26:08,156 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-18 16:26:08,156 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-18 16:26:08,172 - ERROR - ValueError: Input must be an integer
+2025-04-18 16:26:54,604 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-18 16:26:54,620 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-18 16:26:54,622 - ERROR - ValueError: Input must be an integer
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+2025-04-18 16:29:00,773 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-18 16:29:00,784 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-18 16:29:00,784 - ERROR - ValueError: Input must be an integer
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+2025-04-18 16:32:23,897 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-18 16:32:23,910 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-18 16:32:23,911 - ERROR - ValueError: Input must be an integer
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:Ошибка при обработке платежа: Amount is None
+ERROR:root:Ошибка при обработке платежа: Amount must be positive
+2025-04-18 16:39:59,944 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-18 16:39:59,944 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-18 16:39:59,959 - ERROR - ValueError: Input must be an integer
