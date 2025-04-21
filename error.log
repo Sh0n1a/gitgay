@@ -36,11 +36,11 @@
 2025-04-17 18:24:35,502 - INFO - 127.0.0.1 - - [17/Apr/2025 18:24:35] "POST / HTTP/1.1" 200 -
 2025-04-17 18:24:36,571 - INFO - 127.0.0.1 - - [17/Apr/2025 18:24:36] "POST / HTTP/1.1" 200 -
 2025-04-17 18:24:44,693 - INFO - 127.0.0.1 - - [17/Apr/2025 18:24:44] "POST / HTTP/1.1" 200 -
-2025-04-17 18:26:59,039 - INFO -  * Detected change in 'C:\\Users\\ШишкинН\\Desktop\\museum\\test.py', reloading
+2025-04-17 18:26:59,039 - INFO -  * Detected change in 'C:\\Users\\пїЅпїЅпїЅпїЅпїЅпїЅпїЅ\\Desktop\\museum\\test.py', reloading
 2025-04-17 18:26:59,124 - INFO -  * Restarting with stat
 2025-04-17 18:26:59,446 - WARNING -  * Debugger is active!
 2025-04-17 18:26:59,446 - INFO -  * Debugger PIN: 127-949-437
-2025-04-17 18:26:59,486 - ERROR - Ошибка при добавлении лота: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2025-04-17 18:26:59,486 - ERROR - пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
 2025-04-17 18:26:59,486 - INFO - 127.0.0.1 - - [17/Apr/2025 18:26:59] "POST / HTTP/1.1" 200 -
 2025-04-17 18:26:59,618 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-17 18:26:59,653 - ERROR - ValueError: Input must be a non-negative integer
@@ -77,75 +77,81 @@
 2025-04-17 18:39:18,289 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-17 18:39:18,305 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-17 18:39:18,305 - ERROR - ValueError: Input must be an integer
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
 2025-04-18 16:25:37,275 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-18 16:25:37,299 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-18 16:25:37,300 - ERROR - ValueError: Input must be an integer
 2025-04-18 16:25:43,386 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-18 16:25:43,416 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-18 16:25:43,418 - ERROR - ValueError: Input must be an integer
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
 2025-04-18 16:26:08,156 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-18 16:26:08,156 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-18 16:26:08,172 - ERROR - ValueError: Input must be an integer
 2025-04-18 16:26:54,604 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-18 16:26:54,620 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-18 16:26:54,622 - ERROR - ValueError: Input must be an integer
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
 2025-04-18 16:29:00,773 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-18 16:29:00,784 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-18 16:29:00,784 - ERROR - ValueError: Input must be an integer
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
 2025-04-18 16:32:23,897 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-18 16:32:23,910 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-18 16:32:23,911 - ERROR - ValueError: Input must be an integer
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
-ERROR:root:Ошибка при обработке платежа: Amount is None
-ERROR:root:Ошибка при обработке платежа: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount is None
+ERROR:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: Amount must be positive
 2025-04-18 16:39:59,944 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-18 16:39:59,944 - ERROR - ValueError: Input must be a non-negative integer
 2025-04-18 16:39:59,959 - ERROR - ValueError: Input must be an integer
+2025-04-19 15:57:50,973 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-19 15:57:51,001 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-19 15:57:51,002 - ERROR - ValueError: Input must be an integer
+2025-04-21 08:57:13,242 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-21 08:57:13,255 - ERROR - ValueError: Input must be a non-negative integer
+2025-04-21 08:57:13,255 - ERROR - ValueError: Input must be an integer

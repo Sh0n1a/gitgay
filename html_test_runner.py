@@ -3,6 +3,7 @@ import os
 from html import escape
 import unittest
 
+
 class HTMLTestRunner:
     def __init__(self, output_file="rep.html", title="Test Report"):
         self.output_file = output_file

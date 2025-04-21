@@ -2,9 +2,10 @@ import unittest
 from unittest.mock import patch
 from handler import handle_payment_and_notify
 
+
 class TestIntegration(unittest.TestCase):
 
-    @patch('handler.send_notification')
+    @patch("handler.send_notification")
     def test_successful_payment(self, mock_notify):
         self.assertTrue(handle_payment_and_notify(100))
         mock_notify.assert_called_once()
@@ -21,22 +22,21 @@ class TestIntegration(unittest.TestCase):
         with self.assertRaises(ValueError):
             handle_payment_and_notify(None)
 
-@patch('handler.send_notification')
-@patch('file.process_payment', side_effect=Exception("DB error"))
+
+@patch("handler.send_notification")
+@patch("file.process_payment", side_effect=Exception("DB error"))
 def test_logging_on_exception(self, mock_process_payment, mock_send_notification):
 
-        with self.assertRaises(Exception):
-            handle_payment_and_notify(100)
-            
+    with self.assertRaises(Exception):
+        handle_payment_and_notify(100)
 
-        # Проверка, что лог-файл содержит нужное сообщение
-        try:
-            with open('error.log', 'r', encoding='utf-8') as f:
-                log_content = f.read()
-                self.assertIn("Ошибка при обработке платежа", log_content)
-        except FileNotFoundError:
-            self.fail("Файл error.log не найден")
+    try:
+        with open("error.log", "r", encoding="utf-8") as f:
+            log_content = f.read()
+            self.assertIn("Ошибка при обработке платежа", log_content)
+    except FileNotFoundError:
+        self.fail("Файл error.log не найден")
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     unittest.main(True)
-

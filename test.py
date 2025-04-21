@@ -5,14 +5,14 @@ import os
 import __main__
 import sys
 
-# === НАСТРОЙКА ЛОГГИРОВАНИЯ ===
+
 logging.basicConfig(
-    filename='error.log',
+    filename="error.log",
     level=logging.ERROR,
-    format='%(asctime)s - %(levelname)s - %(message)s'
+    format="%(asctime)s - %(levelname)s - %(message)s",
 )
 
-# === ФУНКЦИЯ ===
+
 def factorial(n):
     if not isinstance(n, int):
         logging.error("ValueError: Input must be an integer")
@@ -25,12 +25,12 @@ def factorial(n):
         result *= i
     return result
 
-# === ТЕСТЫ ===
+
 class TestFactorial(unittest.TestCase):
     def setUp(self):
         try:
-            if os.path.exists('error.log'):
-                os.remove('error.log')
+            if os.path.exists("error.log"):
+                os.remove("error.log")
         except Exception as e:
             print(f"Не удалось удалить error.log: {e}")
 
@@ -59,24 +59,27 @@ class TestFactorial(unittest.TestCase):
             self.assertIn("Input must be a non-negative integer", log_content)
 
     def test_logging_mock(self):
-        with patch.object(__main__.logging, 'error') as mock_log:
+        with patch.object(__main__.logging, "error") as mock_log:
             with self.assertRaises(ValueError):
                 factorial(-5)
-            mock_log.assert_called_with("ValueError: Input must be a non-negative integer")
+            mock_log.assert_called_with(
+                "ValueError: Input must be a non-negative integer"
+            )
+
+
 def test_addition(self):
     print(">>> тест пошёл!")
     self.assertEqual(2 + 2, 4)
 
 
-# === ЗАПУСК ===
 if __name__ == "__main__":
     if "--web" in sys.argv:
         from flask import Flask, request, redirect, url_for, render_template_string
 
         app = Flask(__name__)
-        lots = []  # Список лотов аукциона
+        lots = []
 
-        html_template = '''
+        html_template = """
         <!DOCTYPE html>
         <html lang="ru">
         <head>
@@ -125,7 +128,7 @@ if __name__ == "__main__":
             {% endif %}
         </body>
         </html>
-        '''
+        """
 
         @app.route("/", methods=["GET", "POST"])
         def index():
@@ -134,7 +137,9 @@ if __name__ == "__main__":
                     name = request.form["name"]
                     description = request.form["description"]
                     price = float(request.form["price"])
-                    lots.append({"name": name, "description": description, "price": price})
+                    lots.append(
+                        {"name": name, "description": description, "price": price}
+                    )
                 except Exception as e:
                     logging.error(f"Ошибка при добавлении лота: {e}")
             return render_template_string(html_template, lots=lots)
@@ -150,7 +155,7 @@ if __name__ == "__main__":
                         break
             except Exception as e:
                 logging.error(f"Ошибка при ставке: {e}")
-            return redirect(url_for('index'))
+            return redirect(url_for("index"))
 
         app.run(debug=True)
     else:
