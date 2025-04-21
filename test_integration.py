@@ -38,5 +38,9 @@ def test_logging_on_exception(self, mock_process_payment, mock_send_notification
         self.fail("Файл error.log не найден")
 
 
+
+
+
+
 if __name__ == "__main__":
     unittest.main(True)
